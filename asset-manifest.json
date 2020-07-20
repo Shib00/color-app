@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/color-app/static/css/main.636bdef3.chunk.css",
+    "main.js": "/color-app/static/js/main.fa1f7e3f.chunk.js",
+    "main.js.map": "/color-app/static/js/main.fa1f7e3f.chunk.js.map",
+    "runtime~main.js": "/color-app/static/js/runtime~main.bf85e199.js",
+    "runtime~main.js.map": "/color-app/static/js/runtime~main.bf85e199.js.map",
+    "static/css/2.c687f723.chunk.css": "/color-app/static/css/2.c687f723.chunk.css",
+    "static/js/2.429c9569.chunk.js": "/color-app/static/js/2.429c9569.chunk.js",
+    "static/js/2.429c9569.chunk.js.map": "/color-app/static/js/2.429c9569.chunk.js.map",
+    "index.html": "/color-app/index.html",
+    "precache-manifest.c5cfae06640cd91a635512d555b9ac30.js": "/color-app/precache-manifest.c5cfae06640cd91a635512d555b9ac30.js",
+    "service-worker.js": "/color-app/service-worker.js",
+    "static/css/2.c687f723.chunk.css.map": "/color-app/static/css/2.c687f723.chunk.css.map",
+    "static/css/main.636bdef3.chunk.css.map": "/color-app/static/css/main.636bdef3.chunk.css.map"
+  }
+}
